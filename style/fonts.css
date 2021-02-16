@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: 'MR';
+    src: url(../fonts/montserrat/Montserrat-Regular.ttf);
+} 
+
+@font-face {
+    font-family: 'MB';
+    src: url(../fonts/montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'LL';
+    src: url(../fonts/lato/Lato-Light.ttf);
+}
+
+@font-face {
+    font-family: 'LR';
+    src: url(../fonts/lato/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'LBo';
+    src: url(../fonts/lato/Lato-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'LBa';
+    src: url(../fonts/lato/Lato-Black.ttf);
+}
+
+@font-face {
+    font-family: 'RL';
+    src: url(../fonts/raleway/Raleway-Light.ttf);
+}
+
+@font-face {
+    font-family: 'RM';
+    src: url(../fonts/raleway/Raleway-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'RSb';
+    src: url(../fonts/raleway/Raleway-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'RB';
+    src: url(../fonts/raleway/Raleway-Bold.ttf);
+}
